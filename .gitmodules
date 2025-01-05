@@ -1,0 +1,3 @@
+[submodule "ProcessMemory"]
+	path = ProcessMemory
+	url = https://github.com/Jujstme/JHelper.ProcessMemory
